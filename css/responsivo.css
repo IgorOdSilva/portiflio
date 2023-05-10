@@ -23,8 +23,8 @@
     }
 
     .projeto .imagem-do-site {
-        width: 260px;
-        height: 195px;
+        width: 280px;
+        height: 205px;
     }
 
     .projeto .conteudo-projeto {
@@ -43,6 +43,7 @@
 
     .listagem {
         max-width: 360px;
+        font-size: 13px;
     }
 
     .listagem ul {

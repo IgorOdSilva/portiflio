@@ -1,7 +1,8 @@
 
 .projeto {
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.39);
+    background-color: #242533;
+    color: white;
     width: 550px;
     height: 500px;
     border-radius: 15px;
@@ -26,7 +27,7 @@
     margin-top: 20px;
     margin-bottom: 39px;
     text-align: justify;
-    background-color: #dadfe873;;
+    background-color: #999999;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
